@@ -14,9 +14,9 @@ About me
 ❤️ I love solving DSA problems!
 
 
-💬 Ask me about anything here(mailto:manavparekh3004@gmail.com)
+💬 Ask me about anything [here](mailto:manavparekh3004@gmail.com)
 
-Connect me on LinkedIn(www.LinkedIn.com/in/manav-parekh-26313a253)
+Connect me on [LinkedIn](www.LinkedIn.com/in/manav-parekh-26313a253)
 
 javascript typescript react graphql nodejs
 
