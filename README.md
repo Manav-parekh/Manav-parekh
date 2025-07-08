@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-              ![image](https://github.com/user-attachments/assets/88f22778-3762-4871-a8ae-9abb5a11dfdb)
+              [image](https://github.com/user-attachments/assets/88f22778-3762-4871-a8ae-9abb5a11dfdb)
 
 
 
@@ -11,7 +11,7 @@ About me
 
 💼 Pursuing BTech in Information and Communication Technology at Dhirubhai Ambani University
 
-❤️ I love solving DSA problems!
+❤️ I love solving DSA problems and SQL queries!
 
 
 💬 Ask me about anything [here](mailto:manavparekh3004@gmail.com)
