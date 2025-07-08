@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 🏆 My LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/manavtries?theme=dark&ext=contest)
+
+
 <!--
 **Manav-parekh/Manav-parekh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
