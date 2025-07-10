@@ -18,7 +18,7 @@ About me
 
 Connect me on [LinkedIn](www.LinkedIn.com/in/manav-parekh-26313a253)
 
-javascript typescript react graphql nodejs
+
 
 ## 🏆 My LeetCode Stats
 
